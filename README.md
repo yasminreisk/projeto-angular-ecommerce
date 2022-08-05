@@ -1,9 +1,7 @@
-# Bookstore
+# Projeto feito em Angular
 
-Projeto criado a partir de uma live coding da DIO, baseado em Bootstrap.
-
-Landing page sem demais funcionalidades, com dados "mockados"
+O projeto foi desenvolvido a partir da live coding da Digital Innovation One.
 
 ## Development server
 
-Para rodar o projeto, abra o mesmo no seu editor preferencial e rode o comando npm i (para instalar as dependências do projeto) e posteriormente npm start.
+Para iniciar o projeto, faça o download, em seu editor, dê o comando npm install, após isso, o npm start para visualizar o projeto.
